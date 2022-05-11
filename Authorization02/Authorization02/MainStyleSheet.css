@@ -1,0 +1,122 @@
+﻿body {
+    margin: 0;
+    font-size: 15px;
+    background: #4953FD;
+    line-height: 1.6;
+    font-family: "Montserrat", sans-serif;
+}
+
+.bodyColor {
+    background: #d9fefe;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.common {
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.authorization {
+    width: 370px;
+    background: #fff;
+    padding-top: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    text-align:center;
+    border-radius: 9px;
+    display: flex;
+    flex-direction:column;
+}
+
+.p_author{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 40px;
+}
+
+.p_pers {
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 10px;
+}
+
+input {
+    font-family: "Montserrat", sans-serif;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    margin-bottom: 20px
+}
+
+button {
+    font-family: "Montserrat", sans-serif;
+    border-radius: 10px;
+    color: #ffffff;
+    background: #4953FD;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    border: none;
+    margin-bottom: 170px
+}
+
+a {
+    color: #4953FD;
+    margin-bottom: 40px;
+    text-decoration: none;
+}
+
+.regist{
+    color: #808080;
+}
+
+.registration {
+    width: 370px;
+    background: #fff;
+    padding-top: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    border-radius: 9px;
+    display: flex;
+    flex-direction: column;
+    margin: 50px auto;
+}
+
+.button_bottom_top {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.img_lock{
+    width: 100px;
+}
+
+.img_man {
+    width: 150px;
+}
+
+.button_bottom{
+    margin-bottom: 70px;
+}
+
+.no_bottom {
+    margin-bottom: 0;
+    margin-top: 70px;
+}
+
+
+
+
+
+
